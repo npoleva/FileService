@@ -1,1 +1,3 @@
-# FileService
+# FileService 
+
+класс FileServer - входная точка приложения.
